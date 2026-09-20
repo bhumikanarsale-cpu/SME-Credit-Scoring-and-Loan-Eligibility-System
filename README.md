@@ -1,9 +1,9 @@
 # SME Credit Scoring & Loan Eligibility System
 
-## 📌 Project Overview
+# Project Overview
 A machine learning-based web application that evaluates SME credit risk and provides loan eligibility and loan recommendations based on financial and business information.
 
-## 🚀 Features
+# Features
 - SME financial information analysis
 - Credit risk prediction using Machine Learning
 - Credit score generation
@@ -14,7 +14,7 @@ A machine learning-based web application that evaluates SME credit risk and prov
 - Estimated monthly EMI
 - Risk analysis and key assessment factors
 
-## 🛠️ Technologies Used
+# Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -23,7 +23,7 @@ A machine learning-based web application that evaluates SME credit risk and prov
 - Joblib
 - Streamlit
 
-## 📂 Project Structure
+# Project Structure
 ```text
 SME-Credit-Scoring-System/
 ├── data/
@@ -34,6 +34,6 @@ SME-Credit-Scoring-System/
 ├── requirements.txt
 └── .gitignore
 
-#how to run
+# how to run
 pip install -r requirements.txt
 streamlit run app.py
